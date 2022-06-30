@@ -4,7 +4,7 @@
 # @Time      : 2022/6/28, 17:15
 #
 
-print("github 修改内容")
+print("github 修改的内容 用于 git pull")
 
 print("fetch 拉取代码 第二次修改！！！")
 
