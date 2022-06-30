@@ -6,7 +6,7 @@
 
 print("github 修改的内容 用于 git pull")
 
-print("fetch 拉取代码 第二次修改！！！")
+print("fetch 拉取代码 之后合并！！！")
 
 
 '''
